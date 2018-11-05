@@ -1,4 +1,2 @@
-# Bowcross
-
-
-Game Coming Soon!
+# The Pokenite Lobby
+Just a Website.....
